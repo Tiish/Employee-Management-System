@@ -17,8 +17,8 @@ Task Feedback and Communication: Facilitate clear communication between administ
 
 Technologies Used:
 
-SQL
-HTML
-PHP
-CSS
-JS
+SQL, 
+HTML, 
+PHP, 
+CSS, 
+JS.
